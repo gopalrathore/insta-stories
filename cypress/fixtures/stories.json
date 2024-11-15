@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "username": "user1",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "1a", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "1b", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "1c", "imageUrl": "https://placehold.co/600x400" }
+        ]
+    },
+    {
+        "id": "2",
+        "username": "user2",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "2a", "imageUrl": "https://placehold.co/400x400" },
+            { "id": "2b", "imageUrl": "https://placehold.co/400x400" }
+        ]
+    },
+    {
+        "id": "3",
+        "username": "user3",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "3a", "imageUrl": "https://placehold.co/400x400" }
+        ]
+    },
+    {
+        "id": "4",
+        "username": "user4",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "4a", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "4b", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "4c", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "4d", "imageUrl": "https://placehold.co/600x400" }
+        ]
+    },
+    {
+        "id": "5",
+        "username": "user5",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "5a", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "5b", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "5c", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "5d", "imageUrl": "https://placehold.co/600x400" }
+        ]
+    },
+    {
+        "id": "6",
+        "username": "user6",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "6a", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "6b", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "6c", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "6d", "imageUrl": "https://placehold.co/600x400" }
+        ]
+    },
+    {
+        "id": "7",
+        "username": "user7",
+        "avatar": "https://placehold.co/400x400",
+        "stories": [
+            { "id": "7a", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "7b", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "7c", "imageUrl": "https://placehold.co/600x400" },
+            { "id": "7d", "imageUrl": "https://placehold.co/600x400" }
+        ]
+    }
+]
