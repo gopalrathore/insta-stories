@@ -1,10 +1,13 @@
 import './App.css'
+import StoriesViewer from './components/StoriesViewer'
 
 function App() {
 
   return (
     <>
-      <h1>Hello world!!</h1>
+      <div className="app-container">
+        <StoriesViewer />
+      </div>
     </>
   )
 }
